@@ -1,0 +1,10 @@
+a NIL 0
+b a 4
+h a 8
+g h 1
+f g 2
+c f 4
+i c 2
+d c 7
+e d 9
+37
